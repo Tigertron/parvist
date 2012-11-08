@@ -3,8 +3,12 @@ Parvist
 Parvist is a web-crawler bot that can be used to harvest emails and many other bits of information on the web.
 
 License
--------
+=======
 GPLv3
+
+Author
+======
+Josten Moore
 
 Features
 ========
