@@ -139,8 +139,10 @@ def start():
 
 # Called when the application is going to end
 def stop():
+	global parvist
 	# Remove .cache if it exists
 	shutil.rmtree(".cache")
+	parvist.shouldDie = True
 
 # Command line args
 def cmdArgs():
