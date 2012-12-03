@@ -53,7 +53,7 @@ Using parvist is very simple; here are some examples:
 * <code>python parvist.py www.google.com -s -e</code> will start scraping www.google.com for emails and ignore all third party domains.
 * <code>python parvist.py www.google.com -s -e -l 1 -t 5</code> will start scraping www.google.com for emails while ignoring third party domains and setting a 'lag' delay of 1 second and a connection timeout of 5 seconds.
 * <code>python parvist.py www.google.com -s -e -r</code> will start scraping for possible LFI/RFI vulnerabilies while harvesting emails using default settings.
-<<<<<<< HEAD
+
 
 RFI/LFI Sample
 ==============
