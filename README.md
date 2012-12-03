@@ -58,7 +58,7 @@ Using parvist is very simple; here are some examples:
 RFI/LFI Sample
 ==============
 
-The new <code>-r</code> switch has proven to be quite useful; here is a same of some finds (real domains ommitted):
+The new <code>-r</code> switch has proven to be quite useful; here is a sample of some finds (real domains ommitted):
 
 http://www.example.com/template.php?page=ref.php
 http://www.example.com/template.php?page=products.php
