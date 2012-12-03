@@ -71,11 +71,8 @@
 #		* parvist.py now has init(), start(), and stop()
 #		* Threaded output so everything is more organized, controlled, predictable, and easier to read
 #		* Help has been removed from Scraper (parvist) class and made its own function in main (parvist.py)
-<<<<<<< HEAD
 ## 0.51
 #		* RFI search bug fix
-=======
->>>>>>> 63cdb19c7933afd200d4914c5b4342ecd7b3cf7f
 
 from Scraper import *
 import sys
